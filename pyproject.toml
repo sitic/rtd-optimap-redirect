@@ -1,0 +1,6 @@
+[build-system]
+
+[project]
+name = "optimap"
+authors = [{name = "Jan Lebert", email = "mail@jan.lebert.com"}]
+dynamic = ["version", "description"]
