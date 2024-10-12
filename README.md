@@ -1,0 +1,1 @@
+Dummy project to redirect [optimap](https://github.com/cardiacvision/optimap)'s old docs from https://optimap.readthedocs.io to https://cardiacvision.github.io/optimap/
